@@ -1,0 +1,10 @@
+# Default ignored files
+/.idea/
+/Machine learning/my projects/undecided/
+/venv/Include/
+/venv/Lib/
+/venv/Scripts/
+/venv/pyvenv.cfg
+/venv/Tabular playground series/Feb bacteria classification/.idea/
+/venv/Tabular playground series/Feb bacteria classification/test.csv
+/venv/Tabular playground series/Feb bacteria classification/train.csv
